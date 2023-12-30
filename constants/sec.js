@@ -1,0 +1,1 @@
+export const KEY_WEB_3 = "595136ba-c95e-4f99-92b4-cb114b1fd636"
